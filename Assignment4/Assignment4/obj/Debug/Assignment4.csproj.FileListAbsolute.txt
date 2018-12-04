@@ -67,3 +67,7 @@ C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignm
 C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.csproj.CopyComplete
 C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.dll
 C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\obj\Debug\Assignment4.pdb
+C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\bin\EntityFramework.dll
+C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\bin\EntityFramework.SqlServer.dll
+C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\bin\EntityFramework.xml
+C:\Users\Jasveer\Desktop\QA-Assignments\PROG8170_Assignment4\Assignment4\Assignment4\bin\EntityFramework.SqlServer.xml
